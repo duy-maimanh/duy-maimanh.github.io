@@ -1305,17 +1305,16 @@ a.newer-posts:hover {
 .page-footer .page-tag a:hover {
   text-decoration: underline;
 }
-.more-about{
-   float: left;
-}
+
 .more-about a{
   text-decoration: none;
   font-size: 10px;
-  padding: 5px 10px;
+  padding: 5px;
   margin-left: 5px;
   color: #263959;
   text-transform: uppercase;
   border: 1px solid #263959;
+  float: left;
 }
 
 .more-about a:hover {
