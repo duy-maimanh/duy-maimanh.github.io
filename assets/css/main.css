@@ -1306,6 +1306,20 @@ a.newer-posts:hover {
   text-decoration: underline;
 }
 
+.more-about a{
+  text-decoration: none;
+  font-size: 10px;
+  padding: 5px 10px;
+  margin-left: 5px;
+  color: #263959;
+  text-transform: uppercase;
+  border: 1px solid #263959;
+}
+
+.more-about a:hover {
+  text-decoration: underline;
+}
+
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 .blog-tags {
   width: 100%;
