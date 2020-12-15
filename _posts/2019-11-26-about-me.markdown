@@ -5,19 +5,3 @@ date: 2019-11-26 16:15:20 +0300
 description: Here is some information about me.
 img:  # Add image post (optional)
 ---
-> Hiện tại chưa biết viết gì hết 😆 nên viết lan man 1 chút.
->
-> Mình cũng không chắc có người nào vào đọc blog của mình hay không nhưng cứ viết 1 chút để lỡ có bạn nào vào đọc thì còn biết ai viết ra cái đống hổ lốn này 😂
-
-Giống những người khác, mình tốt nghiệp đại học và đi làm. Vào thời điểm mình viết bài nay mình có 3 năm kinh nghiệm làm lập trình viên Android. Mình viết blog mong muốn của mình là review lại kiến thức của mình. Bổ sung thêm những chổ hổng. Chia sẻ những kinh nghiệm và đặt ra mục tiêu cho tương lai.
-
-Đây cũng là 1 nơi để mình học tập và lưu lại các bài tập có tính ứng dụng với bản thân mình. Nếu mọi người có đọc qua và phát hiện sai sót gì đó trong blog thì vui lòng thông báo tới mình để sửa chữa. 
-
-###### Một vài món ưa thích
-
-- Android
-- Kotlin, Python
-- Math
-- Networking
-
-Cảm ơn mọi người đã đọc.
