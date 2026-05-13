@@ -1,8 +1,8 @@
 ---
-title: "The Birth of a Cycling Adventure App: Inspiration from a Friend's Dream(Part 0)"
+title: "The Birth of a Cycling Adventure App: Inspiration from a Friend's Dream (Part 0)"
 date: 2026-05-13
 categories: [system-design, app-development]
-tags: [cycling, app, inspiration]
+tags: [cycling, mobile, app, inspiration]
 ---
 
 Welcome to the first post in our series on **System Design for a Cycling Adventure App**. In this series, we'll explore the technical challenges and architectural decisions involved in building a comprehensive all-in-one app for long-distance cyclists. But before we dive into the code and infrastructure, let's start with the inspiration that sparked this project.
