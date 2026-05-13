@@ -1,5 +1,5 @@
 ---
-title: "The Birth of a Cycling Adventure App: Inspiration from a Friend's Dream"
+title: "The Birth of a Cycling Adventure App: Inspiration from a Friend's Dream(Part 0)"
 date: 2026-05-13
 categories: [system-design, app-development]
 tags: [cycling, app, inspiration]
